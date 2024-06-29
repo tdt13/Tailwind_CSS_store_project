@@ -29,7 +29,7 @@ Install nationality-predictor with npm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](app_screenshot.PNG)
 
 
 ## Tech Stack
