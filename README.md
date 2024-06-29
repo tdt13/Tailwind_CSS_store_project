@@ -14,7 +14,7 @@ This is a Nike trainer store clone built using React Vite and styled using Tailw
 
 ## Demo
 
-Insert gif or link to demo
+![App Demo](nike_clone_site.gif)
 
 
 ## Installation
